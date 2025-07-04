@@ -1,0 +1,18 @@
+# Desafio cartas super trunfo
+
+# Descrição
+
+O programa cadastra cartas do projeto Super Trunfo, recebendo informações e elaborando o cálculo solicitado no trabalho
+
+- Estado
+- Cidade
+- População
+- Área
+- PIB (em milhões)
+- Número de pontos turísticos
+
+Ele também calcula:
+- Densidade populacional
+- PIB per capita
+
+*obs; não use espaços nos nomes
